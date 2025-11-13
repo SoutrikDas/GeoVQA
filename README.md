@@ -1,9 +1,4 @@
-Perfect ✅ — below is the **complete `README.md` code** you can copy directly into your project repository.
-It includes everything from before, formatted in **GitHub Markdown**, complete with emoji headers, syntax highlighting, and clean structure — ready for use.
 
----
-
-```markdown
 # 🌍 GeoVQA — End-to-End Geographical Visual Question Answering System  
 
 **GeoVQA** is a fully-integrated **multimodal Visual Question Answering (VQA)** application that interprets and answers **textual questions about geographical images**.  
