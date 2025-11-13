@@ -45,9 +45,7 @@ It leverages **CLIP-based encoders**, **multimodal retrieval-augmented generatio
                  🌐 ngrok
 ```
 
-````
 
----
 
 ## 🚀 Tech Stack  
 
@@ -188,10 +186,3 @@ Add GitHub badges for better visibility (optional):
 ---
 
 > 🌐 **GeoVQA** — Bridging geography and intelligence through multimodal AI.
-
-```
-
----
-
-Would you like me to create a **`README.md` with embedded images (architecture diagram + preview)** and **GitHub badge layout** ready for upload (so you can just drop it into your repo)?
-```
