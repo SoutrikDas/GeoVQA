@@ -19,8 +19,6 @@ It leverages **CLIP-based encoders**, **multimodal retrieval-augmented generatio
 ## 🧩 System Architecture  
 
 ```
-
-```
             ┌────────────────────┐
             │     Frontend       │
             │ (React / Modern UI)│
