@@ -167,7 +167,7 @@ You can add screenshots or demo gifs here once your frontend is running:
 
 ```
 ![GeoVQA Interface](docs/demo_ui.png)
-![Example Output](docs/example_output.gif)
+![Example Output](Extras/ezgif-2bfcf2b9df059386.mp4)
 ```
 
 ---
