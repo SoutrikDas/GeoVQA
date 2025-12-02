@@ -167,8 +167,9 @@ You can add screenshots or demo gifs here once your frontend is running:
 
 ```
 ![GeoVQA Interface](docs/demo_ui.png)
-![Example Output](https://github.com/SoutrikDas/GeoVQA/blob/Sagnik2003-patch-1/Extras/ezgif-2bfcf2b9df059386.gif)
 ```
+![Example Output](https://github.com/SoutrikDas/GeoVQA/blob/Sagnik2003-patch-1/Extras/ezgif-2bfcf2b9df059386.gif)
+
 
 ---
 
