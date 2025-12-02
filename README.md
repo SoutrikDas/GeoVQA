@@ -32,10 +32,10 @@ It leverages **CLIP-based encoders**, **multimodal retrieval-augmented generatio
      ┌───────────────┴────────────────┐
      │         Model Server           │
      │                                │
-     │  🖼️ CLIP Encoder (Image/Text)  │
-     │  🔗 Cross Attention Fusion      │
-     │  🔍 Multimodal Retriever (RAG)  │
-     │  🧩 GPT-2 Decoder (Answer Gen.) │
+     │  🖼️ CLIP Encoder (Image/Text) │
+     │  🔗 Cross Attention Fusion    │
+     │  🔍 Multimodal Retriever (RAG)│
+     │  🧩 GPT-2 Decoder (Answer Gen)│
      └───────────────┬────────────────┘
                      │
               ┌──────┴──────┐
