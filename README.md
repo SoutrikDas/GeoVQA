@@ -177,12 +177,11 @@ You can add screenshots or demo gifs here once your frontend is running:
 
 Add GitHub badges for better visibility (optional):
 
-```
+
 ![Python](https://img.shields.io/badge/Python-3.10-blue.svg)
 ![React](https://img.shields.io/badge/Frontend-React-green)
 ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
 ![Build](https://img.shields.io/badge/Build-Passing-brightgreen)
-```
 
 ---
 
