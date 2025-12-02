@@ -1,7 +1,7 @@
 
 # 🌍 GeoVQA — End-to-End Geographical Visual Question Answering System  
 
-**GeoVQA** is a fully-integrated **multimodal Visual Question Answering (VQA)** application that interprets and answers **textual questions about geographical images**.  
+**GeoVQA** is a fully-integrated **multimodal Visual Question Answering (VQA)** application that interprets and answers **geographical questions about images**.  
 It leverages **CLIP-based encoders**, **multimodal retrieval-augmented generation (RAG)**, and a **GPT-2 decoder** to generate contextually aware, human-like answers.  
 
 ---
