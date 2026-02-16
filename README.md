@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 
 # 🌍 GeoVQA — End-to-End Geographical Visual Question Answering System  
 
@@ -187,7 +186,3 @@ Add GitHub badges for better visibility (optional):
 ---
 
 > 🌐 **GeoVQA** — Bridging geography and intelligence through multimodal AI.
-=======
-# GeoVQA
-Geographical VQA 
->>>>>>> 851a054d888a12364e958fc4a912ad2ecfdc3809
